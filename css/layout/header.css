@@ -1,0 +1,19 @@
+.navbar-menus{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.navbar-ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 90px;
+}
+.navbar-ul a{
+   color:#8B8E99 ; 
+   
+}
+header{
+    background-color:#0B0B0B ;
+}
